@@ -122,4 +122,5 @@ class SlotMachineController:
 if __name__ == "__main__":
     root = tk.Tk()
     app = SlotMachineController(root)
+
     root.mainloop()
